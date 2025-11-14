@@ -1,2 +1,2 @@
-# my-hyprland-rice
-my hyprland rice files
+# My hyprland
+for linux lz dotfiles
