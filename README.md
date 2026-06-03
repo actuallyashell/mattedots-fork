@@ -1,4 +1,4 @@
-# ifunx - Dotfiles
+# Matte - Dotfiles
 
 ## Installation Script
 
