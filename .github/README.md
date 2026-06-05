@@ -1,12 +1,12 @@
-# Matte - Dotfiles
-
-### ![Static Badge](https://img.shields.io/badge/Hyprland-demo-blue?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=%23deebff&color=%235294ff)
-
-Not here yet cuz i forgot to upload
+<div align="center">
+    <h1>[ matte - Hyprland Dotfiles ]</h1>
+</div>
+  
+![Static Badge](https://img.shields.io/badge/Hyprland-demo-blue?style=for-the-badge&logo=hyprland&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
 ### ![Static Badge](https://img.shields.io/badge/🪟Windows-demo-blue?style=for-the-badge&logo=Window&logoColor=black&labelColor=%23deebff&color=%235294ff)
 
-<img src="windowsHyprland">
+<img src="winDemo">
 
 ## Installation Script
 
